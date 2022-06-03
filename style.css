@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.main{
+    height: 100vh;
+    display: grid;
+        /* /* justify-content: center; */
+        align-content: center; 
+        /* place-items: center; */
+}
+.main-container{
+   
+   text-align: center ;
+}
+
+h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    width: auto;
+    margin: 15px;
+    padding: 5px;
+}
+.value{
+    font-size: 100px;
+}
